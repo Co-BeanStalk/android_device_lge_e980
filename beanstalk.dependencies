@@ -2,13 +2,13 @@
  {
    "remote": "Co-BeanStalk",
    "repository": "android_device_lge_gproj-common",
-   "target_path": "device/lge/gproj-common"
+   "target_path": "device/lge/gproj-common",
    "revision": "kk4.4"
  },
  {
    "remote": "cm", 
    "repository": "lge-kernel-gproj",
-   "target_path": "kernel/lge/gproj"
+   "target_path": "kernel/lge/gproj",
    "revision": "cm-11.0"   
  }
 ]
