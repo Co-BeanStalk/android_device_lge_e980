@@ -1,6 +1,6 @@
 [
  {
-   "remote": "Co-BeanStalk",
+   "remote": "TeamBliss",
    "repository": "android_device_lge_gproj-common",
    "target_path": "device/lge/gproj-common",
    "revision": "kk4.4"
