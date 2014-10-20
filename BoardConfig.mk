@@ -50,6 +50,9 @@ COMMON_GLOBAL_CFLAGS += -DLG_CAMERA_HARDWARE
 
 BOARD_SEPOLICY_DIRS += \
         device/lge/e980/sepolicy
+        
+# Resolution
+DEVICE_RESOLUTION := 1080x1920        
 
 BOARD_SEPOLICY_UNION := \
         app.te \
