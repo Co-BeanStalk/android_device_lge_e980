@@ -6,9 +6,9 @@
    "revision": "kk4.4"
  },
  {
-   "remote": "cm", 
-   "repository": "lge-kernel-gproj",
+   "remote": "github", 
+   "repository": "Snepsts/kernel_e980",
    "target_path": "kernel/lge/gproj",
-   "revision": "cm-11.0"   
+   "revision": "master"   
  }
 ]
