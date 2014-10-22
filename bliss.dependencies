@@ -7,8 +7,8 @@
  },
  {
    "remote": "github", 
-   "repository": "Snepsts/kernel_e980",
+   "repository": "k5t4j5/lge-kernel-gpro",
    "target_path": "kernel/lge/gproj",
-   "revision": "master"   
+   "revision": "cm-11.0"   
  }
 ]
