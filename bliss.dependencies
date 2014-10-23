@@ -7,7 +7,7 @@
  },
  {
    "remote": "cm", 
-   "repository": "k5t4j5/lge-kernel-gpro",
+   "repository": "k5t4j5/lge-kernel-gproj",
    "target_path": "kernel/lge/gproj",
    "revision": "cm-11.0"   
  }
